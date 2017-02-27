@@ -1,0 +1,119 @@
+body{
+	background-color: #ccc;
+}
+#wrapper{
+	width: 375px;
+	height: 667px;
+	background: linear-gradient(#5e5e5e, #1e1e1e);
+}
+.head-green{
+	width: 100%;
+	height: 50px;
+	background: linear-gradient(#78c43e, #267c0e);
+}
+.text-cards{
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
+	padding-top: 13px;
+}
+.back-to{
+	width: 30px;
+	height: 40px;
+	float: left;
+	background: linear-gradient(#78c43e, #267c0e);
+	padding-top: 10px;
+	padding-left: 10px;
+}
+.box-canddata{
+	width: 100%;
+	height: 140px;
+/*	background-color: #fff;*/
+	padding-top: 20px;
+
+}
+.img-cand{
+	width: 180px;
+	height: 110px;
+	/*background-color: #ccc;*/
+	border-radius: 20px;
+	margin-left: 30px;
+	float: left;
+}
+.box-data{
+	width: 150px;
+	height: 110px;
+/*	background-color: #666;*/
+	float: right;
+}
+.text-head{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
+	color: #65cd23;
+	font-size: 12px;
+}
+.text-baht{
+	color: #fff;
+	font-size: 23px;
+	margin-top: -10px;
+}
+.text-display{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
+	font-size: 13px;
+	color: #70cc36;
+	text-align: center;
+	margin-top: 5px;
+}
+.box-infomation{
+	width: 350px;
+	height: 340px;
+	background-color: #fff;
+	border-radius: 3px;
+	margin: 0 auto;
+	padding-top: 1px;
+}
+.text-data{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
+	font-size: 22px;
+	color: #666;
+	margin-left:25px;
+	float: left;
+
+}
+.text-data02{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
+	font-size: 16px;
+	color: #666;
+	margin-left:15px;
+/*	float: left;*/
+	margin-top: 25px;
+}
+.text-data12{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
+	font-size: 16px;
+	color: #666;
+	margin-left:15px;
+/*	float: left;*/
+	margin-top: -8px;
+}
+.text-data03{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
+	font-size: 22px;
+	color: #b20d32;
+	margin-right: 19px;
+	float: right;
+	margin-top: -322px;
+}
+.box-menu{
+	width: 100%;
+	height: 60px;
+	background-color: #666;
+	margin-top: 56px;
+}
