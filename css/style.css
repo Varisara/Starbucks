@@ -1,0 +1,207 @@
+body{
+	background-color: #ccc;
+}
+#wrapper{
+	width: 375px;
+	height: 667px;
+	background: linear-gradient(#5e5e5e, #1e1e1e);
+}
+.head-green{
+	width: 100%;
+	height: 50px;
+	background: linear-gradient(#78c43e, #267c0e);
+}
+.text-cards{
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
+	padding-top: 13px;
+}
+.head02{
+	background: linear-gradient(#25301e, #304224);
+	width: 100%;
+	height: 80px;
+	padding-top: 10px;
+
+}
+.boxtext-greenlevel{
+	width: 250px;
+	height: 80px;
+	/*background-color: #666;*/
+	margin-left: 20px;
+
+}
+.boxtext-submit{
+	width: 107px;
+	height: 80px;
+	/*background-color: #666;*/
+	float: right;
+	padding-right: 10px;
+}
+.rewards{
+	width: 90px;
+	height: 40px;
+	border-radius: 5px;
+	border: 0.5px solid #666;
+	color: #fff;
+	margin: 20px auto 0;
+	margin-left: 8px;
+	background: linear-gradient(#7a7878, #4a4a4a);
+	border: none;
+    border-top: 2px solid #999;
+
+}
+.img-star{
+	width: 15px;
+	height: 15px;
+	/*background-color: #666;*/
+	float: left;
+}
+.head-greenlevel{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
+	font-size: 14px;
+	color: #64a625;
+	margin-top: -1px;
+	margin-left: 5px;
+}
+.head-stars{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
+	font-size: 11px;
+	color: #fff;
+	margin-top: -15px;
+	float: left;
+}
+.head-101{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
+	font-size: 25px;
+	color: #64a625;
+	margin-top: -28px;
+	margin-left: 140px;
+
+}
+.text-data{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Muli', sans-serif;
+	color: #ccc;
+	font-size: 10px;
+	margin-top: -16px;
+}
+.box-cade{
+	width: 100%;
+	height: 225px;
+	/*background-color: #666;*/
+	padding-top: 25px;
+}
+.cade-img{
+	width: 280px;
+	height: 180px;
+	background-color: #ccc;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+.touch-to{
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	/*background-color: #333;*/
+	margin-top: -80px;
+	float: right;
+	/*margin-right: 30px;*/
+	margin-left: 245px;
+	position: absolute;
+}
+.box-baht{
+	width: 100%;
+	height: 50px;
+	/*background-color: #666;*/
+}
+.bax-205{
+	width: 167.5px;
+	height: 50px;
+	/*background-color: #ccc;*/
+	float: left;
+	padding-left: 20px;
+}
+.baht-205{
+	font-size: 20px;
+	color: #fff;
+	margin-top: -1px;
+}
+.As-of{
+	font-size: 13px;
+	color: #fff;
+	margin-top: -20px;
+}
+.bax-regist{
+	width: 167.5px;
+	height: 50px;
+	/*background-color: #999;*/
+	float: right;
+	padding-right: 20px;
+}
+.register{
+	font-size: 20px;
+	color: #5dda3e;
+	margin-top: -1px;
+	float: right;
+}
+.text-number{
+	font-size: 13px;
+	color: #5dda3e;
+	margin-top: -20px;
+	float: right;
+}
+.boxbut{
+	width: 100%;
+	height: 80px;
+	/*background-color: #666;*/
+}
+.but-left{
+	width: 117px;
+	height: 80px;
+	padding-left: 70px;
+	/*background-color: #555;*/
+	float: left;
+}
+.manage{
+	width: 90px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0.5px solid #666;
+    color: #fff;
+    margin: 20px auto 0;
+    margin-left: 8px;
+    background: linear-gradient(#7a7878, #4a4a4a);
+    border: none;
+    border-top: 2px solid #999;
+}
+.but-right{
+	width: 117px;
+	height: 80px;
+	padding-right: 70px;
+	/*background-color: #555;*/
+	float: right;
+}
+.add-card{
+	width: 90px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0.5px solid #666;
+    color: #fff;
+    margin: 20px auto 0;
+    margin-left: 8px;
+    background: linear-gradient(#7a7878, #4a4a4a);
+    border: none;
+    border-top: 2px solid #999;
+}
+.box-menu{
+	width: 100%;
+	height: 60px;
+	background-color: #666;
+	margin-top: 88px;
+}
